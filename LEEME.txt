@@ -1,0 +1,53 @@
+🚀 BIENVENIDO AL WEB SPRINT: TU STARTER PACK
+
+¡Felicidades, Dev!
+
+Si estás leyendo esto, ya tienes en tus manos la arquitectura base que usan los profesionales.
+La mayoría de la gente empieza con una hoja en blanco y se frustra. Tú empiezas con ventaja.
+
+Este código no es una simple plantilla; es tu lienzo para los próximos 3 días. Está diseñado con HTML5 moderno y Tailwind CSS para que te enfoques en crear, no en configurar.
+
+---------------------------------------------------------
+🛠️ CÓMO EMPEZAR (EN 3 PASOS)
+---------------------------------------------------------
+
+1. ABRE LA CARPETA:
+   Abre tu editor de código (recomendamos VS Code) y arrastra esta carpeta completa dentro del programa.
+
+2. INSTALA LA MAGIA:
+   Si usas VS Code, ve a la sección de Extensiones (el icono de los cuadritos a la izquierda) y busca "Live Server". Instálala.
+
+3. EJECUTA EL CÓDIGO:
+   Abre el archivo "index.html", haz clic derecho en cualquier parte del código y selecciona "Open with Live Server".
+
+¡BOOM! 💥 Deberías ver tu portafolio funcionando en el navegador.
+
+---------------------------------------------------------
+📂 ¿QUÉ HAY AQUÍ DENTRO?
+---------------------------------------------------------
+
+/assets  -> Aquí guardarás tus fotos e iconos.
+/css     -> Aquí puedes agregar estilos personalizados si quieres ir más allá.
+/js      -> La lógica (la usaremos más adelante).
+index.html -> EL CORAZÓN DEL PROYECTO. Aquí harás el 90% de tu magia.
+
+---------------------------------------------------------
+🎯 TU MISIÓN PARA EL DÍA 1
+---------------------------------------------------------
+
+No intentes entender cada línea de código hoy. Tu misión es simple:
+"HACKEAR" EL CÓDIGO.
+
+Ve al video del Día 1 en la plataforma y sigue mis instrucciones para cambiar el nombre "AlexDev" por EL TUYO.
+
+Esa será tu primera victoria.
+
+¿Tienes dudas? ¿Algo no funciona?
+Recuerda que tienes acceso a la comunidad. No te quedes trabado en silencio.
+
+Nos vemos en el video,
+
+— Henry
+DojoFullStack
+
+P.D. No tengas miedo de borrar cosas y romper el código. Es la única forma de aprender. Si se rompe, ¡simplemente vuelve a descomprimir este ZIP y empieza de nuevo!
